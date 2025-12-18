@@ -1,0 +1,1 @@
+dofile(core.get_modpath("mandeland").."/common.lua")

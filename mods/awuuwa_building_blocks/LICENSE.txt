@@ -1,0 +1,17 @@
+~~LICENSE~~
+
+Source Code:
+
+(C) awuuwa
+
+GNU GENERAL PUBLIC LICENSE Version 3
+see file "Licence Art Libre 1.3 (LAL 1.3).txt" for the text of the license or the folloiwng URL link on the World Wide Web https://www.gnu.org/licenses/gpl-3.0.txt
+
+Textures:
+
+(C) awuuwa
+
+Licence Art Libre 1.3 / Free Art License 1.3
+see file "Licence Art Libre 1.3 (LAL 1.3).txt" for the text of the license or one of the two following URL links on the World Wide Web
+https://spdx.org/licenses/LAL-1.3.html
+https://directory.fsf.org/wiki/License:LAL-1.3

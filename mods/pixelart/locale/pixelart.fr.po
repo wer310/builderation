@@ -1,0 +1,111 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2025-09-09 19:36+0200\n"
+"PO-Revision-Date: 2025-09-09 19:36+0200\n"
+"Last-Translator: Dirk <spam@0x7be.de>\n"
+"Language-Team: French <https://translate.codeberg.org/projects/linuxdirks-"
+"luanti-mods/pixelart/fr/>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Poedit 3.6\n"
+"X-Poedit-"
+"KeywordsList: ;S;NS:1,2;core.translate:1c,2;core.translate_n:1c,2,3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: .\n"
+
+#. TRANSLATORS: This is a single unordered list entry
+#: system/register_error.lua:31
+msgid "* @1"
+msgstr ""
+
+#: system/register_error.lua:32
+msgid "Insufficient privileges"
+msgstr ""
+
+#: system/register_error.lua:33
+msgid ""
+"In order to interact with the pixelart mod you need to have the following "
+"player privileges set."
+msgstr ""
+
+#: system/register_error.lua:63 system/register_selector.lua:225
+msgid "Close"
+msgstr ""
+
+#: system/register_fields.lua:25
+msgid "You do not have the sufficient privileges for this!"
+msgstr ""
+
+#: system/register_fields.lua:26
+msgid "Missing Privileges: @1"
+msgstr ""
+
+#: system/register_fields.lua:56
+msgid "Not enough room for this pixel!"
+msgstr "Pas assez de place pour ce pixel !"
+
+#: system/register_interfaces.lua:20
+msgid "Open the pixelart selector"
+msgstr ""
+
+#: system/register_interfaces.lua:54
+msgid "Pixelart selector access"
+msgstr ""
+
+#: system/register_nodes.lua:32
+msgid "Palette: @1"
+msgstr "Palette : @1"
+
+#: system/register_palettes.lua:19
+msgid "Unnamed (@1)"
+msgstr ""
+
+#: system/register_selector.lua:35
+msgid "This built-in palette"
+msgstr ""
+
+#: system/register_selector.lua:36
+msgid "This world-specific palette"
+msgstr ""
+
+#: system/register_selector.lua:37
+msgid "was curated by @1 and"
+msgstr ""
+
+#: system/register_selector.lua:38
+msgid "provides @1 pixel."
+msgid_plural "provides @1 pixels."
+msgstr[0] ""
+msgstr[1] ""
+
+#: system/register_selector.lua:44
+msgid "Current palette: @1"
+msgstr "Palette actuelle : @1"
+
+#: system/register_selector.lua:176
+msgid "No palettes available!"
+msgstr ""
+
+#: system/register_selector.lua:177
+msgid ""
+"The mod was loaded but due to configuration or errors there are no palettes "
+"available."
+msgstr ""
+
+#: system/register_selector.lua:179
+msgid ""
+"If you’re in singleplayer mode, you need to validate your configuration. If "
+"you’re on a server, please refer to the server’s rules and contact an "
+"administrator or a moderator for further information."
+msgstr ""
+
+#: system/register_selector.lua:230
+msgid "There is @1 palette available."
+msgid_plural "In total there are @1 palettes available."
+msgstr[0] ""
+msgstr[1] ""
