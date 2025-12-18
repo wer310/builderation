@@ -1,2 +1,0 @@
-#    Use async mapgen environment.
-mandeland_use_async (Mandeland Use async env) bool true

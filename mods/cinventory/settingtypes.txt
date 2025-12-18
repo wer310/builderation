@@ -1,5 +1,0 @@
-[CInventory]
-
-
-ci_list_items (Display craft items in the menu) bool true
-ci_list_tools (Display tools in the menu) bool true
